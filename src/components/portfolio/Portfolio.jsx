@@ -72,7 +72,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
-              href="https://moviesanimated.herokuapp.com/"
+              href="https://jyoti28490.github.io/watchlist/"
               className="btn btn-primary"
               target="_blank"
             >
