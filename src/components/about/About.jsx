@@ -33,10 +33,10 @@ const About = () => {
           </div>
           <p>
             Love creating responsive web applications and passionate about an
-            intuitive user experience.Comfortable to work independently and
+            intuitive user experience. Comfortable to work independently and
             colaborate with different teams to build and ship a successful
-            product.I am a proud of my capability to effectively communicate
-            with key stakeholders on assigned projects.
+            product. I am proud of my capability to effectively communicate with
+            key stakeholders on assigned projects.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk

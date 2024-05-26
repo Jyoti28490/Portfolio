@@ -10,6 +10,7 @@ h5 {
   color: var(--color-light);
 }
 .contact__options {
+  /* border: 1px solid red; */
   display: flex;
   flex-direction: column;
   gap: 1.2rem;

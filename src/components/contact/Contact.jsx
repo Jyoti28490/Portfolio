@@ -41,7 +41,7 @@ const Contact = () => {
             <a href="mailto:jyotirmayi.swain@gmail.com">Send a mail</a>
           </article>
 
-          <article className="contact__option">
+          {/* <article className="contact__option">
             <BsWhatsapp className="contact__option-icon" />
             <h4>Whatsapp</h4>
             <a
@@ -50,7 +50,7 @@ const Contact = () => {
             >
               Send a message
             </a>
-          </article>
+          </article> */}
         </div>
 
         {/* END OF CONTACT OPTIONS */}

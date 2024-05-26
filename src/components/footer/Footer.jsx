@@ -3,6 +3,8 @@ import './footer.css';
 import { BsLinkedin, BsGithub } from 'react-icons/bs';
 
 const Footer = () => {
+  const date = new Date();
+  const year = date.getFullYear();
   return (
     <footer>
       <a href="#" className="footer__logo">
@@ -37,7 +39,7 @@ const Footer = () => {
         </a>
       </div>
       <div className="footer__copyright">
-        <small>&copy; Jyoti@2022</small>
+        <small>&copy; {`Jyoti@${year}`}</small>
       </div>
     </footer>
   );
