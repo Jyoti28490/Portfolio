@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.dd19fb2b.css",
-    "main.js": "/static/js/main.cb5dbe87.js",
+    "main.js": "/static/js/main.522d6ad6.js",
     "static/media/bg2.jpg": "/static/media/bg2.96be3ac3b7ed56172d97.jpg",
     "static/media/Netflix_Clone_1.PNG": "/static/media/Netflix_Clone_1.939ca15ea200ae694151.PNG",
     "static/media/Airbnb_2.PNG": "/static/media/Airbnb_2.05d1fa75b0f4ceef11ab.PNG",
     "static/media/Screenshot 2022-03-06 223115.png": "/static/media/Screenshot 2022-03-06 223115.1fb4c3dd7c8d8ff5ec05.png",
     "static/media/Didi-NO-BG-Boarderless.png": "/static/media/Didi-NO-BG-Boarderless.6553cf99d06fd75cf111.png",
-    "static/media/cv.pdf": "/static/media/cv.3bbd6bbd328497343d58.pdf",
+    "static/media/cv.pdf": "/static/media/cv.8a31899c83b54d178e9d.pdf",
     "index.html": "/index.html",
     "main.dd19fb2b.css.map": "/static/css/main.dd19fb2b.css.map",
-    "main.cb5dbe87.js.map": "/static/js/main.cb5dbe87.js.map"
+    "main.522d6ad6.js.map": "/static/js/main.522d6ad6.js.map"
   },
   "entrypoints": [
     "static/css/main.dd19fb2b.css",
-    "static/js/main.cb5dbe87.js"
+    "static/js/main.522d6ad6.js"
   ]
 }
